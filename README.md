@@ -1,5 +1,5 @@
 Cricket Database Management System
-This project is a comprehensive Database Management System (DBMS) designed to efficiently manage, store, and analyze cricket match data. Developed as part of an academic course, the system models real-world cricket tournaments and provides a robust platform for tracking teams, players, matches, scores, and statistics.
+project is a comprehensive Database Management System (DBMS) designed to efficiently manage, store, and analyze cricket match data. Developed as part of an academic course, the system models real-world cricket tournaments and provides a robust platform for tracking teams, players, matches, scores, and statistics.
 
 Project Overview:-
 The Cricket DBMS project aims to centralize and organize all essential information related to cricket tournaments, including details about teams, players, coaches, umpires, and match outcomes. The database is structured to support efficient querying and reporting, enabling users to retrieve insights such as top performers, match results, player statistics, and historical records.
